@@ -1,0 +1,101 @@
+ID	State	City	Language	Festival	Industry	Population/Revenue	Literacy/Growth	Schools/Companies	Metro
+1	Rajasthan	Ahmedabad	Malayalam	Durga Puja	Textile	23561181	38.934719413489496	9248	Yes
+2	Punjab	Amritsar	Malayalam	Holi	Tourism	25813313	35.66625819945575	312	No
+3	Punjab	Kolkata	Punjabi	Ganesh Chaturthi	Steel	48245405	68.3575305589884	5015	No
+4	Punjab	Bengaluru	Malayalam	Holi	Pharma	10519151	49.63774356481204	1629	Yes
+5	Maharashtra	Patna	Telugu	Christmas	Banking	32929681	59.62039416045753	5357	Yes
+6	Gujarat	Mumbai	Hindi	Onam	Textile	36183265	46.884311081386656	4629	Yes
+7	Gujarat	Amritsar	Telugu	Diwali	Education	19790241	7.019245970408885	8951	No
+8	Karnataka	Kolkata	Gujarati	Pongal	IT	44687857	24.796308660704458	5315	Yes
+9	Bihar	Ahmedabad	Hindi	Christmas	Film	5456475	22.30825275073493	4561	Yes
+10	West Bengal	Chennai	Malayalam	Durga Puja	Education	10300492	45.89326458967451	7328	Yes
+11	West Bengal	Amritsar	Marathi	Ganesh Chaturthi	Pharma	7567295	79.37076535471938	9081	No
+12	Tamil Nadu	Mumbai	Bengali	Eid	Banking	45077862	29.141204986736348	6352	Yes
+13	Karnataka	Bengaluru	Kannada	Eid	Steel	18870159	61.20396759178465	9574	Yes
+14	Gujarat	Kochi	Telugu	Ganesh Chaturthi	Textile	33967711	89.00781954073427	2366	Yes
+15	Kerala	Chennai	Hindi	Baisakhi	Pharma	10392706	80.29218905607499	4147	Yes
+16	Tamil Nadu	Patna	Punjabi	Eid	Banking	1269971	72.7987817327688	7347	No
+17	Gujarat	Chennai	Hindi	Holi	Steel	1619653	43.92188039663572	9265	No
+18	West Bengal	Lucknow	Kannada	Holi	Textile	17852193	63.40418680180243	2443	Yes
+19	Bihar	Bengaluru	Marathi	Makar Sankranti	Steel	37752950	32.385631546653016	5980	Yes
+20	Rajasthan	Chennai	Tamil	Holi	Banking	12084826	11.558681200923584	2238	Yes
+21	Uttar Pradesh	Kochi	Malayalam	Eid	Automobile	13612983	28.256246485774906	420	Yes
+22	Gujarat	Patna	Hindi	Diwali	Steel	44070055	56.345475738295015	3315	No
+23	Kerala	Patna	Tamil	Onam	Steel	31535090	39.85780059214368	735	Yes
+24	Gujarat	Kochi	Kannada	Diwali	IT	37458220	97.05516714918197	5933	Yes
+25	Kerala	Jaipur	Punjabi	Eid	Education	30777929	84.69440053660287	4221	Yes
+26	Punjab	Jaipur	Punjabi	Durga Puja	Tourism	6415451	69.22988493318061	9972	No
+27	West Bengal	Lucknow	Kannada	Christmas	Education	215000	60.44340475940563	5124	Yes
+28	Maharashtra	Jaipur	Marathi	Eid	Education	25727853	41.65527869187424	3700	No
+29	Karnataka	Kolkata	Hindi	Diwali	IT	795564	44.74369600035072	2308	Yes
+30	Kerala	Kochi	Malayalam	Onam	Film	12630177	76.35846050313035	2692	No
+31	Gujarat	Patna	Punjabi	Durga Puja	Automobile	36238681	19.842422224281066	7498	No
+32	Gujarat	Chennai	Urdu	Christmas	Textile	20580495	82.88853775627534	5462	Yes
+33	Rajasthan	Chennai	Urdu	Baisakhi	Automobile	5638944	71.64869897019375	6559	Yes
+34	Kerala	Lucknow	Kannada	Christmas	Textile	30019066	86.4059210360035	8926	Yes
+35	Karnataka	Kolkata	Telugu	Makar Sankranti	Education	2595457	14.66234612232615	8040	Yes
+36	Rajasthan	Bengaluru	Telugu	Ganesh Chaturthi	Film	28888805	72.10195992643808	1572	Yes
+37	Tamil Nadu	Ahmedabad	Bengali	Pongal	Banking	43583087	47.5017509492958	1438	Yes
+38	Kerala	Ahmedabad	Bengali	Baisakhi	Steel	5581155	19.728660853702493	6656	Yes
+39	Uttar Pradesh	Jaipur	Urdu	Pongal	Film	28343384	38.80492330123054	5287	No
+40	Maharashtra	Lucknow	Punjabi	Baisakhi	Banking	12917471	94.318604319343	8402	Yes
+41	Punjab	Bengaluru	Telugu	Pongal	Agriculture	7667305	53.28701513961841	4275	Yes
+42	Uttar Pradesh	Kolkata	Marathi	Diwali	Banking	6556823	48.5830010805902	5910	Yes
+43	Rajasthan	Lucknow	Malayalam	Onam	Tourism	31745943	22.818567951485512	5216	No
+44	Punjab	Bengaluru	Hindi	Durga Puja	IT	39018813	53.440154927100174	2099	Yes
+45	Rajasthan	Mumbai	Malayalam	Durga Puja	IT	32496729	27.86615694167045	4297	No
+46	Punjab	Chennai	Bengali	Eid	Tourism	3727190	49.983315885169986	2510	No
+47	Tamil Nadu	Chennai	Gujarati	Makar Sankranti	Steel	31855545	45.39223974128044	313	Yes
+48	Tamil Nadu	Patna	Bengali	Makar Sankranti	Agriculture	22731662	60.164587858927504	2683	No
+49	Punjab	Patna	Urdu	Makar Sankranti	Automobile	5193651	77.60599094677465	3731	No
+50	Kerala	Amritsar	Kannada	Durga Puja	Banking	5514575	19.2055078036634	1035	Yes
+51	Karnataka	Amritsar	Bengali	Ganesh Chaturthi	Agriculture	32650944	86.2177486875976	6928	Yes
+52	Rajasthan	Patna	Tamil	Pongal	Tourism	28634509	26.951564874680685	2579	No
+53	Karnataka	Kochi	Telugu	Onam	Automobile	45775565	57.75311379571097	8576	No
+54	Uttar Pradesh	Amritsar	Urdu	Durga Puja	Education	37376178	29.089094378870907	7051	No
+55	Maharashtra	Patna	Bengali	Onam	Agriculture	13852439	72.47064986308351	5781	Yes
+56	Punjab	Patna	Tamil	Eid	Steel	35890171	51.99731661705195	1624	Yes
+57	Gujarat	Patna	Urdu	Durga Puja	IT	24447244	89.02271803483978	5055	Yes
+58	West Bengal	Ahmedabad	Telugu	Baisakhi	Education	34090063	67.78822490723272	5845	Yes
+59	Karnataka	Lucknow	Punjabi	Ganesh Chaturthi	Film	36118174	42.140108995722755	7334	No
+60	Gujarat	Patna	Kannada	Baisakhi	Agriculture	31731774	52.200524633982745	3597	Yes
+61	Gujarat	Kolkata	Malayalam	Pongal	Education	47320230	68.66502722968306	9136	Yes
+62	Kerala	Kolkata	Punjabi	Baisakhi	Agriculture	14293388	50.749258952394165	560	No
+63	Karnataka	Amritsar	Urdu	Holi	Tourism	35255779	64.27768467978116	1149	No
+64	Uttar Pradesh	Ahmedabad	Malayalam	Pongal	Automobile	44152207	9.122035429100682	1786	Yes
+65	West Bengal	Ahmedabad	Malayalam	Diwali	Agriculture	46429774	71.79470522456776	4578	No
+66	Uttar Pradesh	Lucknow	Punjabi	Durga Puja	Banking	25327361	28.402875835092193	8407	No
+67	Kerala	Jaipur	Marathi	Eid	Tourism	7769630	89.09238063445433	9040	No
+68	Karnataka	Bengaluru	Malayalam	Ganesh Chaturthi	Education	4605061	83.40217904716205	9270	Yes
+69	Karnataka	Ahmedabad	Malayalam	Baisakhi	Textile	46091581	43.21052886101236	1200	Yes
+70	Tamil Nadu	Ahmedabad	Bengali	Baisakhi	Film	4831758	23.94855519671238	4087	Yes
+71	Punjab	Chennai	Urdu	Baisakhi	Film	15047991	39.59994782242967	6352	Yes
+72	Rajasthan	Mumbai	Punjabi	Makar Sankranti	Textile	10444206	91.70681569079514	4405	No
+73	Bihar	Lucknow	Kannada	Ganesh Chaturthi	Tourism	16104856	73.40249848080084	6540	Yes
+74	Gujarat	Amritsar	Kannada	Eid	Textile	44515225	48.8432339262974	7540	Yes
+75	Kerala	Bengaluru	Kannada	Pongal	IT	32615541	30.74826401627901	3500	No
+76	Rajasthan	Jaipur	Malayalam	Ganesh Chaturthi	Steel	30662250	37.33179249943941	4961	Yes
+77	Uttar Pradesh	Patna	Telugu	Diwali	Steel	7194925	26.265143125675397	2244	No
+78	Bihar	Amritsar	Telugu	Onam	Education	4763977	47.15696408278961	7322	No
+79	Maharashtra	Jaipur	Bengali	Eid	Tourism	25160057	85.1380929506306	2559	Yes
+80	Rajasthan	Kochi	Hindi	Pongal	Banking	46676990	21.15623764342838	5305	No
+81	Tamil Nadu	Ahmedabad	Gujarati	Ganesh Chaturthi	Agriculture	49926171	52.77951629663182	314	Yes
+82	Tamil Nadu	Chennai	Telugu	Ganesh Chaturthi	Agriculture	48720316	62.80322731875234	1874	Yes
+83	Tamil Nadu	Amritsar	Kannada	Eid	Textile	46079316	79.8958420230602	502	Yes
+84	Karnataka	Chennai	Gujarati	Eid	Steel	17941172	74.00294043572244	2237	No
+85	Tamil Nadu	Bengaluru	Malayalam	Ganesh Chaturthi	Film	226650	25.559020807412647	7798	No
+86	West Bengal	Kochi	Marathi	Holi	Tourism	33226728	10.946634961130785	9202	Yes
+87	Punjab	Ahmedabad	Telugu	Christmas	IT	13820949	83.82045919072341	1615	No
+88	West Bengal	Jaipur	Marathi	Eid	Steel	37659349	29.373789754803767	4990	No
+89	Bihar	Lucknow	Bengali	Durga Puja	Steel	26642580	72.19673800864669	2876	No
+90	Karnataka	Chennai	Marathi	Pongal	Automobile	15190722	28.955075279597725	6095	No
+91	Kerala	Ahmedabad	Bengali	Baisakhi	Education	41049174	96.60842894015754	4987	No
+92	Uttar Pradesh	Chennai	Urdu	Diwali	Banking	1420501	75.47533544785291	2346	No
+93	Punjab	Chennai	Urdu	Makar Sankranti	Automobile	15923654	93.5503457566097	1750	No
+94	Tamil Nadu	Patna	Urdu	Pongal	Education	26843051	37.044965110137355	7631	No
+95	Karnataka	Kochi	Punjabi	Baisakhi	Steel	1931104	36.21585407960367	1237	No
+96	Rajasthan	Patna	Malayalam	Christmas	Pharma	15247235	46.50986532403954	8302	Yes
+97	Rajasthan	Lucknow	Malayalam	Eid	Automobile	40827223	5.1855900256779455	1899	Yes
+98	Karnataka	Mumbai	Bengali	Durga Puja	Automobile	40495646	9.969960581632563	3585	No
+99	Maharashtra	Patna	Punjabi	Diwali	Automobile	8215013	39.05835966796257	8445	Yes
+100	Karnataka	Ahmedabad	Urdu	Baisakhi	Banking	16858316	43.564529832406485	3183	Yes
